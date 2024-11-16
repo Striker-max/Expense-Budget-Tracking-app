@@ -1,2 +1,2 @@
 # Expense-Budget-Tracking-app
-Expense and budget tracker app with SQLite integration, allowing users to manage finances, track spending, set budgets, and monitor financial goals.
+Expense and budget tracker app that enables users to manage their finances by adding and deleting expense and income categories, tracking spending and income, and setting budgets. The app connects to an SQLite database for data storage and retrieval, providing a menu for various financial management functions. Users can also set financial goals and view their progress, ensuring comprehensive budget tracking.
